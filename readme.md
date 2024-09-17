@@ -1,0 +1,2 @@
+Hi there! I’m Aayush Poudel, and this repository is a log of my journey into web development. 
+Here, you'll find a collection of code samples, tutorial notes, and various projects that reflect my learning and progress in the field. This space serves as both a personal record and a resource for anyone interested in my work. If you have any questions or feedback, feel free to reach out to me at aayushp2906@gmail.com. Thanks for visiting and exploring my repository!
